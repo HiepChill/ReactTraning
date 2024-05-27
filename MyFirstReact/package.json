@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fstream": "^1.0.12",
+    "fstream-ignore": "^1.0.5",
+    "glob": "^10.4.1",
+    "inflight": "^1.0.6",
+    "rimraf": "^5.0.7",
+    "tar": "^7.1.0",
+    "uid-number": "^0.0.6"
+  }
+}
